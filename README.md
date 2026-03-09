@@ -1,2 +1,2 @@
 # gpg-test-2
-test
+test2
